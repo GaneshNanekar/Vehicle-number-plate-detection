@@ -1,17 +1,53 @@
-# Vehicle-number-plate-detection
+# Vehicle number plate detection
+
 Mini project for vehicle number-plate detection using opencv,python,data science
 
-FOR OPENCV :- First install python from here (https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe)
+First install python from here (https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe)
 
-FOR NUMPY:- After this open terminal or cmd and type command: pip install numpy
+After this open terminal or cmd and type following command
 
-After this execute this command in terminal or cmd :- pip install python-opencv
+FOR NUMPY
 
-FOR PYTESSERACT :- pip install pytesseract (note: install latest vesion)
+```bash
+pip3 install numpy
+```
 
-FOR IMUTILS :- pip install imutils (note: install latest vesion)
-FOR PANDAS :- pip install pandas
+for opencv
 
-FOR MATPLOTLIB:- pip install matplotlib
+```bash
+pip3 install opencv-python
+```
 
-NOTE : you have to save image and code file in same folder. 
+FOR PYTESSERACT
+
+```bash
+pip3 install pytesseract
+```
+
+FOR IMUTILS
+
+```bash
+pip3 install imutils
+```
+
+FOR PANDAS
+
+```bash
+pip install pandas
+```
+
+FOR MATPLOTLIB
+
+```bash
+pip install matplotlib
+```
+
+Then run the main.py file
+
+```bash
+python3 main.py
+```
+
+(note: install latest vesion for all packages)
+
+(note : you have to save image and code file in same folder.)
