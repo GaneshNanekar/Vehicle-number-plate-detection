@@ -1,5 +1,7 @@
 # Vehicle number plate detection
 
+This project is used to read the images of the vehicle license number, convert that  license number to text and store the license of it in a CSV file with date and time.
+
 Mini project for vehicle number-plate detection using opencv,python,data science
 
 First install python from here (https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe)
